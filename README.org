@@ -1,0 +1,7 @@
+#+TITLE: http-response.asd
+
+Simple HTTP response macros I wrote many years ago to work with
+aserve. I'm publishing here since some more interesting things depend
+on them to some degree.
+
+
